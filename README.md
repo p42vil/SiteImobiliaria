@@ -9,14 +9,12 @@
   ![Lucide](https://img.shields.io/badge/Icons-Lucide-orange?style=flat-square)
 </div>
 
-## Interface
-
-<img src="public/captura0.png" width="800">
-
 ### Página Inicial
 
-<img src="public/captura1.gif" width="800">
+<img src="public/captura1.gif" width="1280">
+
+<br>
 
 ### Imóveis
 
-<img src="public/captura2.gif" width="800">
+<img src="public/captura2.gif" width="1280">
