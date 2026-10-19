@@ -1,16 +1,22 @@
-# React + Vite
+<div align="center">
+  <img src="./public/logo-branco.png" alt="Reviume Imobiliária" width="200" style="border-radius: 50%"/>
+  <h1>REVIUNE Imobiliária</h1>
+  <p>Exemplo de site imobiliário moderno para compra, venda e locação de imóveis em São Paulo e região.</p>
+  
+  ![React](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react)
+  ![Vite](https://img.shields.io/badge/Vite-5-purple?style=flat-square&logo=vite)
+  ![CSS](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
+  ![Lucide](https://img.shields.io/badge/Icons-Lucide-orange?style=flat-square)
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## Interface
 
-Currently, two official plugins are available:
+<img src="public/captura0.png" width="800">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Página Inicial
 
-## React Compiler
+<img src="public/captura1.gif" width="800">
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Imóveis
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+<img src="public/captura2.gif" width="800">

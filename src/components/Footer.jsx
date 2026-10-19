@@ -26,7 +26,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="footer-bottom">
-        © {new Date().getFullYear()} REVIUNE Imobiliária. Todos os direitos reservados.
+        © {new Date().getFullYear()} Reviune Imobiliária. Todos os direitos reservados.
       </div>
     </footer>
   );
